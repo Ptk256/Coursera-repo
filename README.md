@@ -1,3 +1,3 @@
-# Coursera-repo
-Practice Coursera bla bla
+# Coursera-repo-propro
+Practice Coursera
 
